@@ -1,0 +1,82 @@
+.navbar {
+    background-color: purple;
+}
+
+.navbar h1,
+.navbar h1:hover{
+    color: yellow;
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+h2,
+h3,
+h4 {
+    font-family: "Pixelify Sans", sans-serif;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: yellow;
+    color: purple;
+}
+
+#cabecalho .nav .nav-link{
+    color: yellow;
+}
+
+
+#sobre .carousel-item img,
+#sobre img,
+#principais-mecanicas img{
+    height: 100%;
+    width: 100%;
+}
+
+#sobre,
+#glifos{
+    background-color: rgb(255, 204, 255);
+    color: purple;
+}
+
+.navbar-toggler{
+    background-color: yellow;
+}
+
+#principais-mecanicas img {
+    height: 300px;
+}
+
+#glifos img {
+    image-rendering: pixelated;
+}
+
+#glifos aside .nav-link.active {
+    background-color: purple;
+    color: yellow;
+}
+
+#glifos aside .nav-link {
+    color: purple;
+}
+
+#fale-conosco .btn {
+    background-color: purple;
+    color: yellow;
+}
+
+#fale-conosco .form-control {
+    margin-bottom: 8px;
+}
+
+h4{
+    margin-top: 8px;
+}
+
+.social-links li{
+    list-style: none;
+    display: inline;
+}
+
+.social-links a{
+    text-decoration: none;
+    color: #212529;
+}
